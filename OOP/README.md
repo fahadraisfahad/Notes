@@ -1,5 +1,5 @@
 # OOP
 
-- [Pdf](/Pdf)
+- [Pdf](Pdf)
 
 
