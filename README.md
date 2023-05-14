@@ -4,3 +4,4 @@
 - [OOP](/OOP)
 - [Database](/Database)
 - [Data](/Data)
+- [Abbreviation](/Abbreviation)
