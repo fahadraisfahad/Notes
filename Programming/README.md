@@ -1,6 +1,6 @@
 # Programming
 
 - [Python](Python)
-- - [Java](Java)
+- [Java](Java)
 
 
