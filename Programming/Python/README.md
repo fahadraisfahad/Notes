@@ -2,6 +2,6 @@
 
 ## Quiz
 
-- [QuizPython](https://github.com/fahadraisfahad/Notes/blob/main/Programming/Python/Quiz.jpeg)
+- [Quiz](https://github.com/fahadraisfahad/Notes/blob/main/Programming/Python/Quiz.jpeg)
 
 
