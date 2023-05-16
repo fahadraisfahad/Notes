@@ -1,5 +1,5 @@
 # Python
 
-- [QuizPython](Quiz Python)
+- ![QuizPython](Quiz Python)
 
 
