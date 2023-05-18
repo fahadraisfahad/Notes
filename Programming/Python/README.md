@@ -4,7 +4,7 @@
 
 ## Quiz Section
 
-# Quiz 1
+- # Quiz 1
 ![Quiz 1](https://github.com/fahadraisfahad/Notes/blob/main/Programming/Python/Quiz.jpeg)
 
 # Quiz 2
