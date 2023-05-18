@@ -1,6 +1,5 @@
 # Python
 
-## Notes Section
-
-## Quiz Section
+-[Notes Section](Notes Section)
+-[Quiz Section](Quiz Section)
 
