@@ -1,8 +1,8 @@
 # Python
 
-## Notes Section
+- ## Notes Section
 
-## Quiz Section
+- ## Quiz Section
 
 - # Quiz # 1
 ![Quiz 1](https://github.com/fahadraisfahad/Notes/blob/main/Programming/Python/Quiz.jpeg)
