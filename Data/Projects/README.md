@@ -1,5 +1,5 @@
 ## Power BI
-### HR Dashboard (Project 1)
+### Project 1 : HR Dashboard
 
 ![HR Dashboard](https://github.com/fahadraisfahad/Notes/blob/main/Data/Projects/files/Project1.PNG)
 
