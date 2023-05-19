@@ -17,5 +17,4 @@
 ![Quiz 4](https://github.com/fahadraisfahad/Notes/blob/main/Programming/Python/WhatsApp%20Image%202023-05-18%20at%209.22.20%20PM.jpeg)
 
 - # Quiz # 5
-![Quiz 5](https://github.com/fahadraisfahad/Notes/blob/main/Programming/Python/WhatsApp%20Image%202023-05-18%20at%209.22.20%20PM.jpeg)
-
+![Quiz 5](https://github.com/fahadraisfahad/Notes/blob/main/Programming/Python/WhatsApp%20Image%202023-04-23%20at%201.04.43%20PM.jpeg)
