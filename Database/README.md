@@ -9,6 +9,7 @@
 - [DBMS in Interview Question](https://github.com/fahadraisfahad/Notes/blob/main/Database/DBMS%20interview%20questions%20.pdf)
 - [SQL Functions](https://github.com/fahadraisfahad/Notes/blob/main/Database/SQL%20Functions.pdf)
 - [SQL Cheatsheet](https://github.com/fahadraisfahad/Notes/blob/main/Database/SQL%20Cheat%20sheet.pdf)
+- [SQL](https://github.com/fahadraisfahad/Notes/blob/main/Database/SQL.pdf)
 - [SQL vs MangoDB](https://github.com/fahadraisfahad/Notes/blob/main/Database/SQL%20Vs%20MongoDB%20.pdf)
 
 
