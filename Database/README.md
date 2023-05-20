@@ -5,5 +5,6 @@
 - [Master SQL](https://github.com/fahadraisfahad/Notes/blob/main/Database/Master%20SQL%20in%2016%20Pages.pdf)
 - [SQL Q/A](https://github.com/fahadraisfahad/Notes/blob/main/Database/Sql%20Questions%20and%20Answers.pdf)
 - [SQL Interview Q/A](https://github.com/fahadraisfahad/Notes/blob/main/Database/SQL%20interview%20questions.pdf)
+- [Database in SQL](https://github.com/fahadraisfahad/Notes/blob/main/Database/Database%20in%20SQL%F0%9F%92%A1)
 
 
