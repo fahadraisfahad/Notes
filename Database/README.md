@@ -9,6 +9,7 @@
 - [SQL Interview Q/A](https://github.com/fahadraisfahad/Notes/blob/main/Database/SQL%20interview%20questions.pdf)
 - [SQL Functions](https://github.com/fahadraisfahad/Notes/blob/main/Database/SQL%20Functions.pdf)
 - [SQL Cheatsheet](https://github.com/fahadraisfahad/Notes/blob/main/Database/SQL%20Cheat%20sheet.pdf)
+- [SQL Zero to Hero](https://github.com/fahadraisfahad/Notes/blob/main/Database/SQL%20Zero%20to%20Hero%20Notes%20.pdf)
 - [SQL](https://github.com/fahadraisfahad/Notes/blob/main/Database/SQL.pdf)
 - [SQL vs MangoDB](https://github.com/fahadraisfahad/Notes/blob/main/Database/SQL%20Vs%20MongoDB%20.pdf)
 
