@@ -1,5 +1,5 @@
 # Object Oriented Programming (OOP)
 
-- [Pdf](Pdf)
+- [Question/Answers](https://github.com/fahadraisfahad/Notes/blob/main/OOP/Pdf/Interview%20OOP%20Q%20and%20A.pdf)
 
 
