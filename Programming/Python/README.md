@@ -20,4 +20,4 @@
 ![Quiz 5](https://github.com/fahadraisfahad/Notes/blob/main/Programming/Python/WhatsApp%20Image%202023-04-23%20at%201.04.43%20PM.jpeg)
 
 - # Quiz # 6
-![Quiz 6]()
+![Quiz 6](https://github.com/fahadraisfahad/Notes/blob/main/Programming/Python/WhatsApp%20Image%202023-05-22%20at%209.59.37%20PM.jpeg)
