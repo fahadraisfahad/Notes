@@ -1,6 +1,7 @@
 # Python
 
 - ## Notes Section
+- [Python Book Practice](https://github.com/fahadraisfahad/Notes/blob/main/Programming/Python/Python%20Book%20Practice.pdf)
 
 - ## Quiz Section
 
