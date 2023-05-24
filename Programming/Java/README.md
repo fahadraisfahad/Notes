@@ -10,6 +10,10 @@
 - # Quiz # 2
 ![Quiz 2](https://github.com/fahadraisfahad/Notes/blob/main/Programming/Java/WhatsApp%20Image%202023-05-24%20at%209.22.59%20PM.jpeg)
 
+- # Quiz # 3
+![Quiz 3](https://github.com/fahadraisfahad/Notes/blob/main/Programming/Java/WhatsApp%20Image%202023-05-24%20at%209.22.59%20PM%20(1).jpeg)
+
+
 
 
 
