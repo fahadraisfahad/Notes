@@ -24,5 +24,9 @@
 ![Quiz 6](https://github.com/fahadraisfahad/Notes/blob/main/Programming/Python/WhatsApp%20Image%202023-05-22%20at%209.59.37%20PM.jpeg)
 
 - # Quiz # 7 (LIST and SET Comprehension)
-![Quiz 6](https://github.com/fahadraisfahad/Notes/blob/main/Programming/Python/list%20and%20set%20comprehension.PNG)
+![Quiz 7](https://github.com/fahadraisfahad/Notes/blob/main/Programming/Python/list%20and%20set%20comprehension.PNG)
+
+- # Quiz # 8 (What are Prime Numbers?)
+![Quiz 8](https://github.com/fahadraisfahad/Notes/blob/main/Programming/Python/Prime%20Numbers.PNG)
+
 
