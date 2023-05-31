@@ -29,4 +29,8 @@
 - # Quiz # 8 (What are Prime Numbers?)
 ![Quiz 8](https://github.com/fahadraisfahad/Notes/blob/main/Programming/Python/Prime%20Numbers.PNG)
 
+- # Quiz # 9
+![Quiz 9](
+
+
 
