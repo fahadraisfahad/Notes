@@ -30,7 +30,7 @@
 ![Quiz 8](https://github.com/fahadraisfahad/Notes/blob/main/Programming/Python/Prime%20Numbers.PNG)
 
 - # Quiz # 9
-![Quiz 9](
+![Quiz 9](https://github.com/fahadraisfahad/Notes/blob/59ebbf9e97c2438HfQqdcprC8ghRfpXDGzHS2GUDdeU5Q29/Programming/Python/WhatsApp%20Image%202023-05-31%20at%2011.21.02%20PM.jpeg)
 
 
 
