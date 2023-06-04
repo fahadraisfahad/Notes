@@ -2,4 +2,4 @@
 
 Abbreviation|Full Form|
 :-:|:-:|
-BI|Business Intelligence|
+BI|Business Intelligence.|
